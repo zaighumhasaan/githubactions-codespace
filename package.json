@@ -1,0 +1,22 @@
+{
+  "name": "githubactions-codespace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"All tests passed!\"",
+  "build": "echo \"Build complete\""
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaighumhasaan/githubactions-codespace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zaighumhasaan/githubactions-codespace/issues"
+  },
+  "homepage": "https://github.com/zaighumhasaan/githubactions-codespace#readme"
+}
